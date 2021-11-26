@@ -1,2 +1,3 @@
-
-services/.DS_Store
+.DS_Store
+*~
+api_config.php
