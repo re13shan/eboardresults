@@ -10,7 +10,7 @@ Co\run(function() {
                 'host' => '127.0.0.1',
 		'port' => 3314,
                 'user' => 'nixtec_api_dev',
-                'password' => '9K5vaDUjByPRgTKh',
+                'password' => 'passwordhere',
                 'database' => 'nixtec_api_dev'
             ]);
             #$statement = $mysql->prepare("SELECT * FROM `ssc_dhaka_2020` WHERE roll_no='123456' LIMIT 1");
